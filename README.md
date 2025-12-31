@@ -1,2 +1,2 @@
-# compiler-assignment
-complete error reporting system mini compiler
+This compiler is a complete compiler implementation that translate a subset of C language into executable code . It demonstrate all major phases of compilation: lexical analysis , parsing, sementic analysis, intermediate representation, optimization and code generation.
+its key features include: complete lexical anaiysis with error recovery, recursive decent parser with AST generation, semantic analysis with type checking, three address code (TAC) intermediate representation, multi-level optimization(-Oo, -O1, -O2),target code generation, comprehensive error reporting.
